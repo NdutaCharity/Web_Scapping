@@ -32,3 +32,9 @@
    
    2. [Scrapy](https://scrapy.org/)
         
+
+# [Web Scrapping Tutorial](https://github.com/NdutaCharity/Web_Scrapping/blob/main/Web%20Scrapping%20Tutorial.ipynb)
+
+    * This is a guided project by Alex Freberg on Amazon.
+    * I made a few tweaks, however, I maintained one product to watch.
+    * Next challenge will be to ue multiple itemsor rather populate my table with other attributes such as ratings etc.
