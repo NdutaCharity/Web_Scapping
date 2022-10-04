@@ -28,7 +28,7 @@
           
     5. What tools can you use to scrape the web?
     
-1. [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+   1. [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
    
-   [Scrapy](https://scrapy.org/)
+   2. [Scrapy](https://scrapy.org/)
         
