@@ -37,6 +37,7 @@
 
         - This is a guided project by Alex Freberg on Amazon.
         - I made a few tweaks, however, I maintained one product to watch.
-        - Next challenge will be to ue multiple items or rather populate my table with other attributes such as ratings etc.
+        - Next challenge will be to use multiple items or rather populate my table with other attributes such as ratings etc.
         
 ## 2. [Scrap IMDB Top Rated Movies](https://github.com/NdutaCharity/Web_Scrapping/blob/main/ScrapIDMB.py)
+         - Top rated 250 movies on IMDB.
